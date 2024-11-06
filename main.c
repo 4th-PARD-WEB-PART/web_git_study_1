@@ -39,3 +39,5 @@ void handleUserInput() {
 void displayResult(int result) {
     printf("The result is: %d\n", result);
 }
+
+// (corkang) be strong and courageous.
