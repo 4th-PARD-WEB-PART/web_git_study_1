@@ -39,3 +39,4 @@ void handleUserInput() {
 void displayResult(int result) {
     printf("The result is: %d\n", result);
 }
+//is the result of the calculation of the power of two integers and the power of two integers (민찬)
