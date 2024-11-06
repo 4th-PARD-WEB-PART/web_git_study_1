@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/jeongminchan/Desktop/web_git/web_git_study_1",
+      "program": "/Users/jeongminchan/Desktop/web_git/web_git_study_1/build/Debug/outDebug"
+    }
+  ]
+}
